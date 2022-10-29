@@ -1,3 +1,9 @@
+# Project Files and Folders
+.classpath
+.project
+.settings/
+bin/
+
 # Compiled class file
 *.class
 
