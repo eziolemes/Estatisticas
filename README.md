@@ -1,13 +1,13 @@
 # Estatisticas
 
 Aplicação desktop java que faz os seguintes cálculos:
-- Média aritmética
-- Média ponderada
-- Média geométrica
-- Média harmônica
-- Mediana
-- Desvio padrão
-- Amplitude total
+- [x] Média aritmética
+- [x] Média ponderada
+- [x] Média geométrica
+- [x] Média harmônica
+- [x] Mediana
+- [x] Desvio padrão
+- [x] Amplitude total
 
 ### 🛠 Tecnologias
 
